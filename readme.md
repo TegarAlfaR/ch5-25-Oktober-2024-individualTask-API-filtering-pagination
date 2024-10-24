@@ -8,7 +8,7 @@ This project includes a RESTful API for managing users, products, and shops. all
 
 The API documentation, including details about each endpoint, required parameters, and response formats, can be accessed through the following Postman link:
 
-<a href="<[insert_your_postman_link_here](https://documenter.getpostman.com/view/38692295/2sAY4shiXb)>" style="color:blue; font-size:14px;">view api documentation on postman</a>
+[View Documentation](https://documenter.getpostman.com/view/38692295/2sAY4shiXb#415213a8-0ce9-4d21-bf3b-406c6f7c48a1)
 
 
 ### How to Use the Postman Documentation:
